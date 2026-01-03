@@ -43,8 +43,8 @@ python -m listas.lista
 
 ## 👤 Author
 
-Project developed as part of the professional course in
-**Management and Programming of Computer Systems (GPSI)**
+Project developed as part of the professional course in  
+**Management and Programming of Computer Systems (GPSI)**  
 
 **School:** Escola Profissional Bento Jesus Caraça (EPBJC)  
 **Subject:** PSI  

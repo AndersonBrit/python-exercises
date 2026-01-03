@@ -1,30 +1,32 @@
-# Exercícios Python - Curso GPSI
+# Python Exercises - GPSI Course
 
-Esta pasta contém vários exercícios e mini-projetos realizados durante o curso profissional de Gestão e Programação de Sistemas Informáticos (GPSI). Cada pasta representa um conjunto de exercícios de diferentes tópicos de Python.
-
----
-
-## Estrutura da pasta
-
-- **`calculadora/`** → Calculadora com operações básicas (soma, subtração, multiplicação e divisão).  
-- **`classes/`** → Exercícios de programação orientada a objetos (ex: classe `Pessoa`).  
-- **`ficheiro/`** → Exercícios de leitura e escrita de ficheiros.  
-- **`imports/`** → Exercícios sobre funções e importações entre ficheiros (`soma`, `multiplicacao`, `resultado`).  
-- **`listas/`** → Exercícios envolvendo listas e manipulação de dados.  
-- **`penalti/`** → Mini-jogo interativo de penaltis com pontuação.  
-- **`polimorfismos/`** → Exemplos de herança e polimorfismo (`Animal`, `Cao`, `Gato`).  
+This folder contains various exercises and mini-projects completed during the professional course in **Management and Programming of Computer Systems (GPSI)**. Each subfolder represents a set of exercises on different Python topics.
 
 ---
 
-## Como executar os exercícios
+## 📁 Folder Structure
 
-1. Abrir o terminal na pasta raiz `exercicios`:
+* **`calculadora/`** → Calculator with basic operations (addition, subtraction, multiplication, and division).
+* **`classes/`** → Object-oriented programming exercises (e.g., `Pessoa` class).
+* **`ficheiro/`** → File reading and writing exercises.
+* **`imports/`** → Exercises on functions and imports between files (`soma`, `multiplicacao`, `resultado`).
+* **`listas/`** → Exercises involving lists and data manipulation.
+* **`penalti/`** → Interactive penalty mini-game with scoring.
+* **`polimorfismos/`** → Examples of inheritance and polymorphism (`Animal`, `Cao`, `Gato`).
+
+> **Comment:** The structure is clear and organized by topic. Each folder is self-contained, making it easy to locate exercises by concept.
+
+---
+
+## ▶️ How to Run the Exercises
+
+1. Open the terminal in the root folder `exercicios`:
 
 ```bash
-cd caminho/para/exercicios
+cd path/to/exercicios
 ```
 
-2. Executar o script desejado usando o módulo Python:
+2. Run the desired script using Python’s module option:
 
 ```bash
 python -m calculadora.calculadora
@@ -33,20 +35,23 @@ python -m penalti.penaltis
 python -m listas.lista
 ```
 
-> ℹ️ Nota: Substituir caminho/para/exercicios pelo caminho real no teu computador.
+> ℹ️ **Note:** Replace `path/to/exercicios` with the actual path on your computer.
+
+> **Comment:** Using `python -m` ensures proper module imports. This structure also allows running exercises independently.
 
 ---
 
-## Autoria
+## 👤 Author
 
-Projeto desenvolvido no âmbito do curso profissional de  
-**Gestão e Programação de Sistemas Informáticos (GPSI)**
+Project developed as part of the professional course in
+**Management and Programming of Computer Systems (GPSI)**
 
-**Escola:** Escola Profissional Bento Jesus Caraça (EPBJC)  
-**Disciplina:** PSI  
-**Autor:** Andérson Brito"
+**School:** Escola Profissional Bento Jesus Caraça (EPBJC)  
+**Subject:** PSI  
+**Author:** Andérson Brito  
 
 ---
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
